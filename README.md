@@ -32,3 +32,4 @@ The Insurance Manager aims to improve the insurance portfolio's performance by:
 
 ### Regional and Category Contributions to Sales
 - **Observation**: Luxury and RTI Packages are popular among high-end customers, with top vehicle types being Sports Car, MPV, and SUV.
+### Dashboard: https://app.powerbi.com/links/sd_DaSvJn4?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare
